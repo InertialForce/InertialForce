@@ -18,6 +18,10 @@
 - 
 - 
 
+## Проекты
+- 🤯 [Algososh](https://kirill-karpachev.github.io/algososh/#/)
+- ⭐ [StellarBurger](https://kirill-karpachev.github.io/react-burger/#/)
+- 🌄 [Mesto](https://kirill-karpachev.github.io/mesto-project/)
 ## Мой стек
 <p>
   <img src="https://img.shields.io/badge/Javascript-323232?style=for-the-badge&logo=javascript&logoColor=yellow" />
@@ -30,5 +34,10 @@
   <img src="https://img.shields.io/badge/Figma-323232?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
+
+## Статистика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill-Karpachev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirill-Karpachev&show_icons=true&theme=radical)
+
+
+
 
