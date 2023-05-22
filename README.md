@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <h1>Привет, меня зовут Кирилл!</h1>
+  <h1>Всем привет!</h1>
   <h3>Front-end Developer</h3>
 </div>
 
 <div id="socials" align="center">
-  <a href="ki.karpachev@gmail.com">
+  <a href="mailto:ki.karpachev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://t.me/ki_karpachev">
@@ -13,15 +13,15 @@
 </div>
 
 ## Обо мне
-- 
-- 
-- 
-- 
+- 👨‍💻Занимаюсь веб-разработкой с начала 2022
+- 📱Интересна тема мобильной разработки
+- ✏️Решаю задачи на [CodeWars](https://www.codewars.com/users/Kirill%20Karpachev)
 
 ## Проекты
-- 🤯 [Algososh](https://kirill-karpachev.github.io/algososh/#/)
-- ⭐ [StellarBurger](https://kirill-karpachev.github.io/react-burger/#/)
-- 🌄 [Mesto](https://kirill-karpachev.github.io/mesto-project/)
+- 🤯 [Algososh](https://kirill-karpachev.github.io/algososh/#/) - визуализация алгоритмов
+- ⭐ [StellarBurger](https://kirill-karpachev.github.io/react-burger/#/) - космическая бургерная
+- 🌄 [Mesto](https://kirill-karpachev.github.io/mesto-project/) - сеть для обмена фотографиями
+
 ## Мой стек
 <p>
   <img src="https://img.shields.io/badge/Javascript-323232?style=for-the-badge&logo=javascript&logoColor=yellow" />
@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/Figma-323232?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
-
 ## Статистика
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill-Karpachev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirill-Karpachev&show_icons=true&theme=radical)
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirill-Karpachev&show_icons=true&theme=dark&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
